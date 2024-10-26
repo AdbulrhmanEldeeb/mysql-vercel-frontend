@@ -1,5 +1,5 @@
 // scripts.js
-const API_URL = 'https://fastapi-mysql-ok3a.onrender.com/';
+const API_URL = 'https://mysqlfastapi.vercel.app';
 
 async function getCustomer() {
     const id = document.getElementById('get-customer-id').value;
